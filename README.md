@@ -157,3 +157,6 @@ List of authors/contributors’ names and contact info
 * Ozgur Tuna Ozturk '24 - ozturk_ozgur@wheatoncollege.edu
 Last edited on April 5th, 2024.
 On this project, I hereby declare that I have fully abided by the Wheaton College MA Honor Code.
+
+This repo can be found at:
+https://github.com/Tozturk18/COMP318_Proj3.git
