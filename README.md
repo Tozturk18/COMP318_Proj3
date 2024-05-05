@@ -14,6 +14,7 @@ graph TD;
     greedyPlan-->main.cpp;
     ChangePlan-->dynamicPlan;
     dynamicPlan-->main.cpp;
+    ChangePlan-->main.cpp;
 ```
 
 This project contains multiple files that divide the workload.
